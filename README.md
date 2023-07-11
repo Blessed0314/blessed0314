@@ -12,7 +12,7 @@
 ### Social networks
 <p align="center">
     <a href="https://www.facebook.com/christiandaniel.villegas">
-        <img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-3-1.png" alt="Visita mi perfil de Facebook" width="50" height="50" style="margin-right: 2em;">
+        <img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-3-1.png" alt="Visita mi perfil de Facebook" width="50" height="50" style="margin-right: 100px;">
     </a>
     <a href="https://www.linkedin.com/in/christian-daniel-villegas-uma%C3%B1a-755097252/">
         <img src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo.png" alt="Visita mi perfil de LinkedIn" width="50" height="50">
@@ -23,7 +23,7 @@
 
 <p align="center">
     <a href="mailto:christian.daniel999@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="50" height="50" style="margin-right: 2em;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="50" height="50" style="margin-right: 100px;">
     </a>
     <a href="mailto:christi-an999@hotmail.es">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/1200px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="Outlook" width="50" height="50">
