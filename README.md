@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./banner.png" alt="Presentación" width="700" height="300"/>
+    <img src="./banner.jpeg" alt="Presentación" width="700" height="300"/>
 </p>
 <center><h1>Welcome👋! My name is Christian Daniel Villegas 🌟</h1></center>
 
